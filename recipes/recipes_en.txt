@@ -264,6 +264,7 @@ Yahoo Mail
 		_ 1st-party script
 		_ yimg.com image
 		_ yimg.com xhr
+		_ yimg.com script
 
 Youtube no account
 	youtube.com *
